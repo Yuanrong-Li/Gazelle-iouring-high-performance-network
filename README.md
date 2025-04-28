@@ -1,7 +1,6 @@
 # Gazelle支持基于iouring的高性能网络协议栈
 
 - 项目名称: Gazelle支持基于iouring的高性能网络协议栈
-- 项目链接: {本赛题在github上的链接或在大赛官网上的赛题链接}
 - 导师信息: 
   - 姓名: 吴长冶
   - 邮箱: wuchangye@huawei.com
@@ -23,7 +22,7 @@
 
 License
 
-- 许可协议: 木兰
+- 许可协议: MulanPSL-2.0
 
 参考资料
 
